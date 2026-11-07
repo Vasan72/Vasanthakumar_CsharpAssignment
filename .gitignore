@@ -1,0 +1,16 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+singlefile/
+publish/
+
+# IDE files
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Keep the final executable and outputs in root
+!Vasanthakumar_C# Assignment.exe
+!EmployeeWorkingHours.html
+!EmployeeWorkingHoursPieChart.png
